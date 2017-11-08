@@ -1,0 +1,10 @@
+var Name = prompt ("User Name");
+    document.getElementById("name").innerHTML=(Name);
+var Email = prompt ("User email");
+    document.getElementById("email").innerHTML=(Email);
+var Uni = prompt ("User College/University");
+    document.getElementById("uni").innerHTML=(Uni);
+var Age = prompt ("User Age");
+    document.getElementById("age").innerHTML=(Age);
+var Edu = prompt ("User Education");
+    document.getElementById("edu").innerHTML=(Edu);
